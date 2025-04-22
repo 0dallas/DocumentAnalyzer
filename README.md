@@ -21,8 +21,8 @@ This project is a Streamlit-based web application that allows users to upload PD
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pdf-file-analyzer.git
-   cd pdf-file-analyzer
+   git clone https://github.com/0dallas/DocumentAnalyzer.git
+   cd DocumentAnalyzer
    ```
 
 2. Install the required dependencies:
@@ -30,16 +30,7 @@ This project is a Streamlit-based web application that allows users to upload PD
    pip install -r requirements.txt
    ```
 
-3. Create a `requirements.txt` file with the following dependencies:
-   ```
-   streamlit
-   langchain
-   langchain-openai
-   langchain-community
-   pypdf
-   ```
-
-4. Obtain an OpenAI API key from [OpenAI](https://platform.openai.com/).
+3. Obtain an OpenAI API key from [OpenAI](https://platform.openai.com/).
 
 ## Usage
 1. Run the Streamlit application:
